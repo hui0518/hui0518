@@ -6,3 +6,4 @@
 hui0518/hui0518 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hui051875)](https://solved.ac/hui051875)
