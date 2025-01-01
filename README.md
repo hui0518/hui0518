@@ -8,6 +8,4 @@
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hui051875)](https://solved.ac/hui051875)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hui0518&layout=donut&size_weight=0&count_weight=1)
