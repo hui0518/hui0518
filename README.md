@@ -5,5 +5,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Haskell](https://img.shields.io/badge/Haskell-%23121011.svg?style=for-the-badge&logo=haskell&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hui051875)](https://solved.ac/hui051875)
